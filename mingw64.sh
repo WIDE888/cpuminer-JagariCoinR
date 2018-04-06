@@ -5,3 +5,4 @@ LDFLAGS="-L depend/curl-7.38.0-devel-mingw64/lib64 -static" LIBCURL="-lcurldll" 
 make -j 4
 
 strip -p --strip-debug --strip-unneeded cpuminer.exe
+
