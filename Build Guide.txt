@@ -1,4 +1,4 @@
-¡Build for Linux
+¡Build for Debian Linux
 
    apt-get update
    apt-get install git automake gcc make libcurl4-openssl-dev libjansson-dev
