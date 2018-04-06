@@ -2,7 +2,7 @@
 
    apt-get update
    apt-get install git automake gcc make libcurl4-openssl-dev libjansson-dev
-   git clone https://github.com/WIDE888/cpuminer-xxxx.git
+   git clone https://github.com/WIDE888/cpuminer-pptp.git
    cd cpuminer
    
    ./build.sh
